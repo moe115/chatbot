@@ -1,0 +1,135 @@
+#objective of the master
+objective of the master
+The 2IS Master program is designed for Bachelor students in information technologies (IT) aiming to expand their knowledge on innovative information technologies. 2IS is organised by researchers of IRIT (Institut de Recherche en Informatique de Toulouse), one of the major French institutes in computer science.
+the responsable for master 1 is david 
+#what is 2is
+2IS is a MIAGE Master program (Méthodes Informatiques Appliquées à la Gestion des Entreprises), which is the reference Master in France for information technology. MIAGE programs are run by more than 20 universities in France.
+Innovative information technologies reinvent and transform businesses. Artificial intelligence, big data and web-service orchestration drastically impact end-users as automation is at the heart of business processes
+ 
+# The Goals of the master
+The Goals of the master
+2IS proposes a unique and broad perspective on innovation in IT in a 2-year program:
+-Innovative software solutions such as business intelligence and data visualization, machine learning, collective intelligence distributed databases.
+-Innovative software development methods such as agile management and collaborative design.
+-Innovation and entrepreneurship in strategy and management.
+
+# Requirements to join the master
+Requirements to join the master : To enrol you must hold a Bachelor in Information Technologies or an equivalent title (minimum 3 years of study), as well as a certification of English proficiency at B2 level.
+
+#Tuition fees and expenses
+Tuition fees are about 250 euros per year (as an excellence program the Master 2IS does not apply the differential fees for foreign students).  
+Our university does not provide scholarships nor student accommodation. Eiffel scholarships are available at national level, the internal deadline is usually in November of the previous year. A prize of around 500 euros is awarded by the Faculty of IT to first-class students during the first year of the master.
+Living costs in Toulouse are around 800€ per month, with accommodation costing around 300/400 euros per month for a room in a shared apartment or a small studio. Social security in France is free for all students (or subject to a small fee of around 100 euros per year).
+
+
+# Future careers
+Future careers
+typical positions held by MIAGE graduate students are:
+- business analyst
+- management and IT consultant
+- IT project management
+- BI consultant
+- big data consultant
+- software analyst
+- data analyst
+- innovative software architect 
+- software entrepreneur
+Our students have been interns at: Capgemini, Continental, Amazon.de, Airbus, LEGOS, Gisaia, R++, Volkswagen China, Sopra Steria, Roamler NL, Dassault...
+courses:
+
+
+# courses of the master 
+## Master 1
+
+### Semester 1 - Fundamentals :
+Data Analysis and visualisation (5 ECTS)
+Object oriented programming (5 ECTS)
+Project management (5 ECTS)
+Advanced databases (5 ECTS)
+Software design (5 ECTS)
+Foreign language (French or English) (2 ECTS)
+
+### Semester 2 - Towards Innovation
+Business process intelligence (5 ECTS)
+Artificial intelligence (5 ECTS)
+Web programming (5 ECTS)
+Marketing and innovation (5 ECTS)
+Business intelligence (5 ECTS)
+
+### Professionalisation courses : 
+Personal Development
+Research workshop 1 (2 ECTS)
+Research workshop 2 (2 ECTS)
+Term project 1 (2 ECTS)
+Internship or term project 2 (2 ECTS)
+
+##Master 2
+
+### Semester 3 - Innovation in IT
+Innovative software methods (6 ECTS + project week)
+Innovative data management (6 ECTS + project week)
+Cybersecurity (2 ECTS)
+Internet of things and web development (6 ECTS + project week)
+Advanced topics in artificial intelligence (6 ECTS + project week)
+Sustainable information systems (2 ECTS)
+User interface and user experience (2 ECTS + project week)
+Strategy and innovation (5 ECTS)
+Foreign language (French or English, 3 ECTS)
+Research workshop 3 (2 ECTS)
+
+### Semester 4 - Innovation in Action:
+5-6 month internship
+in a company, followed
+by a final examination
+(20 ECTS)
+
+
+# how to apply
+
+## According to your situation :
+
+if You are a student from a Campus France country you can apply on Études en France portal ,  Admissions to enter the degree in September 2025 were open from October 1st to December 2024.
+if You are an european student, or you reside in Europe, or you are a student from a non-Campus France country you can apply from eCandidatures portal
+For the Master 1: Open from February 25th to March 24th 2025.
+For the Master 2: Open from April 28th to May 16th 2025
+ 
+## Interview and response:
+April-May for the Master 1
+June for the Master 2.
+
+
+## Documents needed for application:
+CV, grade transcripts, cover letter and English certificate
+
+
+# International partners
+We have Erasmus and student exchange agreements with the following universities:
+Spain: Universidad Carlos III de Madrid, Université de Séville, Universitat Autónoma de Barcelona, Universitat Politécnica de Valencia
+The Netherlands: Universiteit Maastricht, Universiteit van Tilburg
+Portugal: Universidade Nova de Lisboa
+Belgium: KU Leuven
+Chili: Universidad Diego Portales (Santiago)
+Perou: Universidad del Pacifico (Lima)
+Japan: University of Keio (Tokyo)
+The 2IS master participates in the European University ENGAGE, providing real and virtual courses exchange with a number of European universities.
+
+
+# responsibles for the master 
+
+## Master 1 
+responsibles for the master , master 1 :  David Simoncini , contact:  david.simoncini@ut-capitole.fr
+
+## Master 2
+responsibles for the master , master 2 :  Chihab Hanashi, contact:  hanachi@univ-tlse1.fr
+
+
+# About the university 
+ About the university 
+At the Faculty of Information Technologies of University of Toulouse Capitole, we promote innovative teaching methods: capstone projects, flipped classrooms and serious games. We go beyond teaching hard skills, proposing training on soft skills like teamwork and communication skills classes.
+The University of Toulouse Capitole campus is conveniently located in the city center, with nearby co-working cafés and surrounded by vibrant startup environment
+
+# about toulouse
+Toulouse hosts more than 14.000 international students, and the University of Toulouse offers dedicated services to facilitate the your arrival:
+Toul’Box : customisable packages that you can purchase before arrival, providing you with a bank account, health insurance, sim card... up to looking for an accommodation for you (price range 400-600 EUR per month).
+Welcome Desk : the first place to visit upon arrival, provides support to all prospective students, with a dedicated office for visa applications.
+ 
