@@ -18,6 +18,20 @@ installing all libraries:
 pip install -r requierements.txt
 
 
+
+create .env file
+inside the file :
+
+EMBEDDING_MODEL = "mxbai-embed-large:latest"
+CHAT_MODEL = "phi3:mini"
+MODEL_PROVIDER = "ollama"
+DATASET_STORAGE_FOLDER = "datasets/"
+SNAPSHOT_STORAGE_FILE = "snapshot.txt"
+DATABASE_LOCATION = "chroma_db"
+COLLECTION_NAME = "rag_data"
+
+
+
 victorising the data :
 python 2_chunking_embedding_ingestion.py
 
