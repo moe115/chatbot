@@ -125,7 +125,7 @@ if user_question:
         
         # Optional: Show source documents in an expander
         if source_docs:
-            with st.expander("📚 View Source Documents"):
+            with st.expander("View Source Documents"):
                 for i, doc in enumerate(source_docs, 1):
                     st.markdown(f"**Source {i}:**")
                     st.text(doc.page_content[:200] + "...")
